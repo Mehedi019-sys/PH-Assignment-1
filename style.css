@@ -263,3 +263,43 @@ body {
   color: #666;
   line-height: 1.6;
 }
+.site-footer {
+  padding: 40px;
+  background-color: #fff;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.footer-logo {
+  height: 32px;
+  width: auto;
+}
+
+.footer-socials {
+  display: flex;
+  gap: 20px;
+  font-size: 18px;
+}
+
+.footer-socials a {
+  text-decoration: none;
+}
+
+.footer-divider {
+  border: none;
+  border-top: 1px solid #eee;
+  max-width: 1100px;
+  margin: 24px auto;
+}
+
+.footer-copyright {
+  text-align: center;
+  font-size: 13px;
+  color: #888;
+}
