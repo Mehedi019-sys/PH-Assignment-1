@@ -1,0 +1,1 @@
+for the ai challange section i give clode the figma photo and explaine it 2-3 times. i told claude to make relevent qustions for a dev conference like venue, refund, recordings, virtual option and what to bring. i also asked it to match my exsisting colors and card style (purple accent, rounded corners, shadow) so it looks like it belongs with my Starting design.
